@@ -31,7 +31,7 @@
 
 - 当 cur == Null，结束循环，返回 pre。
 
-![image-20200627220535158.png](E:\2018Summer\master_degree\小论文\result_pic\039a6eff23111dba77d91ed909bbd35539b1185c07664372b129216a7b779b4a-image-20200627220535158.png)
+![image-20200627220535158.png](.\反转链表.png)
 
 #### 24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
